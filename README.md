@@ -1,5 +1,12 @@
 # sDict (Supa Dict!)
 
+#### Installation
+
+Installation can be done via pypi:
+`pip3 install supa-dict`
+
+#### Usage
+
 SDict is an enhanced dictionary object for Python. It has several features
 and applications especially well suited to use in templating engines. The
 biggest enhancement is the ability to use dot notation for 'pathing' your
